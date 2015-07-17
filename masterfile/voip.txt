@@ -1,0 +1,38 @@
+VOIP PROTOCOL
+
+ VoIP is a technology that allows telephone calls to be made over computer networks like the Internet. VoIP converts analog voice signals into digital data packets and supports real-time, two-way transmission of conversations using Internet Protocol (IP) after.
+\\
+after after after after after 
+after after after after after 
+after after after after after 
+ after after after 
+after after after after after 
+after after after after after 
+after after after after after 
+after after after after after 
+after after after after after 
+after after after after after 
+after after after after after 
+ after after after 
+after after after after after 
+after after after after after 
+after after after after after 
+after after after after after 
+after after after after after 
+
+
+
+
+before
+before
+before
+
+after after after after after 
+VoIP calls can be made on the Internet using a VoIP service provider and standard computer audio systems. Alternatively, some service providers support VoIP through ordinary telephones that use special adapters to connect to a home computer network. Many VoIP implementations are based on the H.323 technology standard after.
+
+VoIP offers a substantial cost savings over traditional long distance telephone calls. The main disadvantage of VoIP is a greater potential for dropped calls and degraded voice quality when the underlying network links are under heavy load after.
+There are a number of protocols that may be employed in order to provide for VoIP communication services. In this section, we will focus on those which are most common to the majority of the devices deployed and being deployed today after.
+
+Virtually every device in the world uses a standard  after called Real-Time Protocol (RTP) for transmitting audio and video packets between communicating computers. RTP is defined by the IETF in RFC 3550. The payload format for a number of CODECs are defined in RFC 3551, though payload format specifications are defined in documents also published by the ITU and in other IETF RFCs. RTP also addresses issues like packet order and provides mechanisms (via the Real-Time Control Protocol, or RTCP, also defined in RFC 3550) to help address delay and jitter.
+
+

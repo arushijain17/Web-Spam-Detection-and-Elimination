@@ -1,0 +1,54 @@
+/* BEGIN Tweetable */
+.tweetable a {
+    background-color: ghostwhite;
+    color: inherit;
+    /* twitter color */
+    /* color: #55acee; */
+    padding-left: 0.1875em;
+    text-decoration: none;
+    -webkit-transition: all 0.1545s ease-in-out;
+    -moz-transition: all 0.1545s ease-in-out;
+    -o-transition: all 0.1545s ease-in-out;
+    transition: all 0.1545s ease-in-out;
+}
+
+.tweetable a:hover, .tweetable a:active, .tweetable a:focus {
+    /* twitter color */
+    /* background-color: #55acee; */
+    /* portent blue */
+    background-color: #0A81C5;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.tweetable img {
+    border: 0;
+    display: inline-block;
+    height: 1em;
+    margin-left: 0.1875em;
+    margin-right: 0.1875em;
+    position: relative; 
+    top: -0.1em;
+    vertical-align: middle;
+    width: 1em;
+    -webkit-transition: all 0.1545s ease-in-out;
+    -moz-transition: all 0.1545s ease-in-out;
+    -o-transition: all 0.1545s ease-in-out;
+    transition: all 0.1545s ease-in-out;
+}
+
+.tweetable img.twitter-icon-over {
+    opacity: 0;
+    position: absolute;
+}
+
+.tweetable:hover img.twitter-icon-over, .tweetable:active img.twitter-icon-over, .tweetable:focus img.twitter-icon-over {
+    opacity: 1;
+    position: relative;
+}
+
+.tweetable:hover img.twitter-icon-out, .tweetable:active img.twitter-icon-out, .tweetable:focus img.twitter-icon-out {
+    display: none;
+}
+/* END Tweetable */

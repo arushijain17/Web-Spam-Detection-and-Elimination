@@ -1,0 +1,11 @@
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;refresh&quot; content=&quot;0;url=http://localhost/project/admin.html&quot;   /&gt;
+&lt;title&gt;Page Moved&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+dsncksdbki
+This page has moved. Click &lt;a href=&quot;http://localhost/project/admin.html&quot;&gt;here&lt;/a&gt; to go to the new page.
+&lt;/body&gt;
+&lt;/html&gt;
